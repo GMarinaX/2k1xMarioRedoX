@@ -1,8 +1,16 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------
-LEADER_Aristocrat
-Aristocrat
-3
-STARYU,7
-MIMEJR,8
-RALTS,10
+RIVAL1
+Sanct
+1
+VULPIX,5,,,,,,,M,,,MODEST,0
+#-------------------
+RIVAL1
+Sanct,1
+1
+SHELLDER,5,,,,,,,M,,,MODEST,0
+#-------------------
+RIVAL1
+Sanct,2
+1
+EXEGGCUTE,5,,,,,,,M,,,MODEST,0
