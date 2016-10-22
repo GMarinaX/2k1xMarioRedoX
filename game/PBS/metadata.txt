@@ -28,3 +28,7 @@ ShowArea=true
 # Squishy Farm
 Outdoor=true
 ShowArea=true
+[006]
+# Unadesa Town
+MapSize=2,
+Outdoor=true
