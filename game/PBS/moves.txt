@@ -619,3 +619,4 @@
 619,HYPERSPACEFURY,Hyperspace Fury,13B,100,DARK,Special,0,5,0,00,0,,"Ignores the effects of Protect, Detect, King's Shield, Spiky Shield, and Mat Block. Lowers user's Defense by 1 stage."
 620,HOLDBACK,Hold Back,0E9,40,NORMAL,Physical,100,40,0,00,0,abef,"The user holds back when it attacks and the target is left with at least 1 HP."
 621,HOLDHANDS,Hold Hands,133,0,NORMAL,Status,0,40,0,00,0,,"The user and an ally hold hands.  This makes them very happy."
+622,FISHFODDER,Fish Fodder,159,50,WATER,Physical,85,20,0,00,0,abfhi,"The user calls fish allies that attack the opponent with sharp bites. It has a high critical-hit ratio."
