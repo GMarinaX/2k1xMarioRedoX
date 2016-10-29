@@ -4,31 +4,90 @@ PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_d
 TrainerBattleBGM=trainerbattle.mp3
 SurfBGM=Ship.mid
 BicycleBGM=Airship.mid
-Home=3,7,5,8
+Home=11,5,7,6
 WildBattleBGM=wildbattle.mp3
 [001]
 # Zeron Town
+MapPosition=0,1,17
 Outdoor=true
 ShowArea=true
 [002]
 # Route 001
-MapPosition=0,13,12
+MapPosition=0,3,17
 Outdoor=true
 ShowArea=true
 [003]
 # Alcazar Town
+MapPosition=0,5,17
 Outdoor=true
 ShowArea=true
 [004]
 # Route 002
-MapPosition=0,13,12
+MapPosition=0,5,15
 Outdoor=true
 ShowArea=true
 [005]
 # Squishy Farm
+MapPosition=0,5,15
 Outdoor=true
 ShowArea=true
 [006]
 # Unadesa Town
 MapSize=2,
+SnapEdges=true
+MapPosition=0,6,12
 Outdoor=true
+ShowArea=true
+[007]
+# Alcazar Gate
+Outdoor=false
+[008]
+# Sanct Lake Placeholder
+Outdoor=true
+[009]
+# Unadesa South Gate
+Outdoor=false
+[010]
+# Unadesa Gym
+Outdoor=false
+[011]
+# \PN's House
+Outdoor=false
+[012]
+# Intro
+Outdoor=false
+[013]
+# Sanct's House
+Outdoor=false
+[014]
+# DarkMatt''s House
+Outdoor=false
+[015]
+# Wohlstand Laboratory
+Outdoor=false
+[016]
+# Squishy's House
+Outdoor=false
+[017]
+# Unadesa Pokémon Center
+Outdoor=false
+[018]
+# Unadesa East Gate
+Outdoor=false
+[019]
+# Alcazar Pokémon Center
+Outdoor=false
+[020]
+# Unadesa North Gate
+Outdoor=false
+[021]
+# Fanta Forest
+MapPosition=0,6,10
+Outdoor=true
+ShowArea=true
+[022]
+# Route 003
+SnapEdges=true
+MapPosition=0,6,10
+Outdoor=true
+ShowArea=true

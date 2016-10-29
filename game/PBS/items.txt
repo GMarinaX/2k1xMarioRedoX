@@ -593,3 +593,4 @@
 593,KEEBERRY,Kee Berry,Kee Berries,5,20,"If held by a Pokémon, this Berry will increase the Pokémon's Defense stat when hit by a physical attack.",0,0,5,
 594,MARANGABERRY,Maranga Berry,Maranga Berries,5,20,"If held by a Pokémon, this Berry will increase the Pokémon's Special Defense stat when hit by a special attack",0,0,5,
 595,SNOWBALL,Snowball,Snowballs,1,200,"An item to be held by a Pokémon. It boosts Attack if hit with a Ice-type attack. It can only be used once.",0,0,0,
+596,POKEMONHAIR,Pokémon Hair,Pokémon Hairs,8,0,"A hair of a Pokémon found near Squishy Farm. Emmits a strange glow.",0,0,6,

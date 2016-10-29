@@ -1,6 +1,6 @@
 #########################
 002 # Route 001
-25,10,10
+50,10,10
 LandMorning
 PIDGEY,2,3
 RATTATA,2,3
@@ -42,7 +42,7 @@ BURMY,3,5
 IGGLYBUFF,3,5
 #########################
 004 # Route 002
-25,10,10
+40,10,10
 LandMorning
 PIDGEY,3,5
 RATTATA,3,5
@@ -84,7 +84,7 @@ AZURILL,5,7
 HOOTHOOT,5,7
 #########################
 005 # Squishy Farm
-25,10,10
+40,10,10
 LandMorning
 MAREEP,5,7
 PSYDUCK,5,7
