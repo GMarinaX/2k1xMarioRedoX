@@ -1,8 +1,11 @@
 ﻿[000]
 PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerC=POKEMONTRAINER_Red,phone005.png,xxx,xxx,xxx,xxx,xxx,xxx
+TrainerVictoryME=victory_trainer.mp3
+WildVictoryME=victory_wild.mp3
 TrainerBattleBGM=trainerbattle.mp3
-SurfBGM=Ship.mid
+SurfBGM=champ.mp3
 BicycleBGM=Airship.mid
 Home=11,5,7,6
 WildBattleBGM=wildbattle.mp3
@@ -60,7 +63,7 @@ Outdoor=false
 # Sanct's House
 Outdoor=false
 [014]
-# DarkMatt''s House
+# DarkMatt's House
 Outdoor=false
 [015]
 # Wohlstand Laboratory
