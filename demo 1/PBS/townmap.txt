@@ -1,0 +1,3 @@
+﻿[0]
+Name=Ezembyex Region
+Filename=mapRegion0.png

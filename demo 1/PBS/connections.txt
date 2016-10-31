@@ -1,0 +1,8 @@
+# Route 001 (2) - Zeron Town (1)
+2,West,0,1,East,0
+# Alcazar Town (3) - Squishy Farm (5)
+3,East,0,5,West,78
+# Route 002 (4) - Squishy Farm (5)
+4,East,18,5,West,0
+# Route 002 (4) - Alcazar Town (3)
+4,South,0,3,North,0
