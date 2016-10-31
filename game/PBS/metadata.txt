@@ -11,34 +11,39 @@ Home=11,5,7,6
 WildBattleBGM=wildbattle.mp3
 [001]
 # Zeron Town
+MapSize=1,1
 MapPosition=0,1,17
 Outdoor=true
 ShowArea=true
 [002]
 # Route 001
-MapPosition=0,3,17
+MapSize=3,111
+MapPosition=0,2,17
 Outdoor=true
 ShowArea=true
 [003]
 # Alcazar Town
+MapSize=1,1
 MapPosition=0,5,17
 Outdoor=true
 ShowArea=true
 [004]
 # Route 002
-MapPosition=0,5,15
+MapSize=1,111
+MapPosition=0,6,9
 Outdoor=true
 ShowArea=true
 [005]
 # Squishy Farm
+MapSize=1,1
 MapPosition=0,5,15
 Outdoor=true
 ShowArea=true
 [006]
 # Unadesa Town
-MapSize=2,
+MapSize=2,1111
 SnapEdges=true
-MapPosition=0,6,12
+MapPosition=0,5,12
 Outdoor=true
 ShowArea=true
 [007]
@@ -85,12 +90,14 @@ Outdoor=false
 Outdoor=false
 [021]
 # Fanta Forest
+MapSize=1,1
 MapPosition=0,6,10
 Outdoor=true
 ShowArea=true
 [022]
 # Route 003
+MapSize=1,111
 SnapEdges=true
-MapPosition=0,6,10
+MapPosition=0,6,9
 Outdoor=true
 ShowArea=true
