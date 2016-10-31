@@ -30,6 +30,7 @@ ShowArea=true
 [004]
 # Route 002
 MapSize=1,111
+SnapEdges=true
 MapPosition=0,6,9
 Outdoor=true
 ShowArea=true
@@ -89,15 +90,3 @@ Outdoor=false
 # Unadesa North Gate
 Outdoor=false
 [021]
-# Fanta Forest
-MapSize=1,1
-MapPosition=0,6,10
-Outdoor=true
-ShowArea=true
-[022]
-# Route 003
-MapSize=1,111
-SnapEdges=true
-MapPosition=0,6,9
-Outdoor=true
-ShowArea=true

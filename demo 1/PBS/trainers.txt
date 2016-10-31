@@ -30,7 +30,7 @@ GIBLE,5
 LASS
 Akiko
 1
-HOPPIP,7
+HOPPIP,9
 #-------------------
 YOUNGSTER
 Tracey
@@ -46,8 +46,8 @@ TREECKO,7
 YOUNGSTER
 Marcus
 2
-PIDGEY,5
-RATTATA,6
+PIDGEY,6
+RATTATA,8
 #-------------------
 LASS
 Suzie
@@ -57,12 +57,12 @@ MAREEP,6
 LASS
 Rachel
 1
-GEODUDE,8
+GEODUDE,9
 #-------------------
 YOUNGSTER
 Zack
 1
-ROGGENROLA,8
+ROGGENROLA,9
 #-------------------
 YOUNGSTER
 Maurice

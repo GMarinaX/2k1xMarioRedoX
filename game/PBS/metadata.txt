@@ -30,6 +30,7 @@ ShowArea=true
 [004]
 # Route 002
 MapSize=1,111
+SnapEdges=true
 MapPosition=0,6,9
 Outdoor=true
 ShowArea=true
