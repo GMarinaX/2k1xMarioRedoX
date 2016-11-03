@@ -6,3 +6,5 @@
 4,East,18,5,West,0
 # Route 002 (4) - Alcazar Town (3)
 4,South,0,3,North,0
+# Route 003 (22) - Colontree City (27)
+22,North,0,27,South,0

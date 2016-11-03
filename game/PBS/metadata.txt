@@ -7,7 +7,7 @@ WildVictoryME=victory_wild.mp3
 TrainerBattleBGM=trainerbattle.mp3
 SurfBGM=champ.mp3
 BicycleBGM=Airship.mid
-Home=11,5,7,6
+Home=11,6,4,6
 WildBattleBGM=wildbattle.mp3
 [001]
 # Zeron Town
@@ -30,7 +30,6 @@ ShowArea=true
 [004]
 # Route 002
 MapSize=1,111
-SnapEdges=true
 MapPosition=0,6,9
 Outdoor=true
 ShowArea=true
