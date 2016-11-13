@@ -969,14 +969,13 @@ SANDILE,18
 #-------------------
 FAIRYTALE
 Matilda
-2
+1
 CLEFFA,16
-CARBINK,17
 #-------------------
 YOUNGSTER
 Calvin
 1
-GROWLITHE,21
+PONYTA,21
 #-------------------
 HIKER
 Howard
